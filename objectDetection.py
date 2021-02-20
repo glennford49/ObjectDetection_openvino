@@ -9,7 +9,7 @@ model ="model/person-vehicle-bike-detection-2000.xml"
 
 device ="CPU"
 input_stream = "video/cars.mp4"
-labels ="labels.txt"
+labels ="model/labels.txt"
 threshold= 0.6
 is_async_mode = False # synchronous if False
 def main():
