@@ -1,6 +1,6 @@
 # ObjectDetection_openvino
 
-Instructions : https://youtu.be/I9H-w6_GBbM
+Instructions : https://youtu.be/kptX-BsDNy0
 
 ## Requirements :
 
